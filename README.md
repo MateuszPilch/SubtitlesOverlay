@@ -1,3 +1,3 @@
-# SubtitlesOverlay - rev 0.9
+# Subtitles overlay
 
-Program odtwarzający napisy z plików .srt kodowanych w UTF-8
+Program odtwarzający napisy z plików .srt kodowanych w UTF-8.
